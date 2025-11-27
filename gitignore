@@ -1,0 +1,19 @@
+gitignore
+
+# Build files
+*.exe
+*.o
+*.obj
+*.ilk
+*.pdb
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
